@@ -1,12 +1,12 @@
 # 🎮 Guer's Roblox Studio & Lua Portfolio
 
-Welcome to the official GitHub Repository of Guer (ปิตินนท์ สกุลเรืองรักษ์). This repository serves as a professional technical ledger and learning logbook for my game development journey in 2026.
+Welcome to the official GitHub Repository of Guer (ปณชัย สกุลเรืองรักษ์). This repository serves as a professional technical ledger and learning logbook for my game development journey in 2026.
 
 ---
 
 ## 📌 Project Overview
 * Developer: Panachai Sakulruangrak (Guer)
-* Mentor / Supervisor: Sakchai Sakulraungrak / Dad (System Architect)
+* Mentor / Supervisor: Sakchai Sakulruangrak / Dad (System Architect)
 * Tech Stack: Roblox Studio, Lua Scripting, Git, Markdown
 * Objective: To master foundational game mechanics, object-oriented scripting in Lua, and system architecture over a structured 5-phase learning roadmap.
 
