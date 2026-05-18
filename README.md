@@ -40,7 +40,7 @@ To maintain 100% server safety and optimal sorting, this project adheres to the 
 
 The content of this repository is automatically built and deployed as a live web application via GitHub Pages.
 
-👉 View Live Website: [https://panachai-guer.github.io/roblox-guer-portfolio/](https://www.google.com/search?q=https://panachai-guer.github.io/guer-roblox-studio-portfolio/)
+👉 View Live Website: [https://panachai-guer.github.io/guer-roblox-studio-portfolio/](https://www.google.com/search?q=https://panachai-guer.github.io/guer-roblox-studio-portfolio/)
 
 ---
 
