@@ -12,7 +12,7 @@
     
 - **Lead Mentor:** Sakchai Sakulraungrak / Dad (System Architect)
     
-- **Project Base:** E:\son-logbook\Github-Guer\roblox-studio-portfolio
+- **Project Base:** Sons-Logbook\Github-Guer\roblox-studio-portfolio
     
 
 ---
