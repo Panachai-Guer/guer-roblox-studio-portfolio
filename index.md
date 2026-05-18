@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Creator Profile (ข้อมูลผู้สร้างสรรค์)
 
-- **Developer:** เด็กชาย ปณชัย สกุลเรืองรักษ์ / เกื้อ (Panachai Sakulruangrak)
+- **Developer:** เด็กชาย ปณชัย สกุลเรืองรักษ์ / น้องเกื้อ (Panachai Sakulruangrak)
     
 - **Role:** Junior Game Developer & Lua Scripter
     
