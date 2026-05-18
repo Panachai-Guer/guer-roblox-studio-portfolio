@@ -5,8 +5,8 @@ Welcome to the official GitHub Repository of Guer (ปิตินนท์ ส�
 ---
 
 ## 📌 Project Overview
-* Developer: Pitinnon Sakulreungrak (Guer)
-* Mentor / Supervisor: Dad (System Architect)
+* Developer: Panachai Sakulruangrak (Guer)
+* Mentor / Supervisor: Sakchai Sakulraungrak / Dad (System Architect)
 * Tech Stack: Roblox Studio, Lua Scripting, Git, Markdown
 * Objective: To master foundational game mechanics, object-oriented scripting in Lua, and system architecture over a structured 5-phase learning roadmap.
 
